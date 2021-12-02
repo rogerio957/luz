@@ -1,0 +1,82 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="Praia, Espinho (Portugal) "
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8?nimblesessionid=726520102
+#EXTINF:-1 tvg-logo="rio-douro-vila-nova-de-gaia-porto-foz-webcam-ponte"
+https://frn.rtsp.me/j_oq4wZI4ABx3ASqwZ9qPQ/1638551152/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-1 tvg-logo="capelinha-das-aparicoes-fatima-portugal"
+https://streamer-a03.videos.sapo.pt/live/santuario/chunklist_w1606071889.m3u8
+#EXTINF:-1 tvg-logo="TV Arapuan em direto"
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1182545956_b3090432.m3u8
+#EXTINF:-1 tvg-logo="TV Carioca em direto "
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w827205608.m3u8
+#EXTINF:-1 tvg-logo="CNN Portugal em direto"
+https://video-auth6.iol.pt/live_tvi24/live_tvi24/edge_servers/tvi24-720_passthrough/chunks.m3u8?nimblesessionid=85449095&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIxIDQ6ODozOCBQTSZoYXNoX3ZhbHVlPWFKYWV0QWljU2xEN01GdVVhMkxiUUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yOWFkZmQ4ZS01M2NhLTRjMjctOWMwMC1lOTNkNDc5MmZjMTE=
+#EXTINF:-1 tvg-logo="Porto Canal em direto"
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w621419542.m3u8
+#EXTINF:-1 tvg-logo="SIC em direto"
+http://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 tvg-logo="SIC Notícias em direto "
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 tvg-logo="TVI em direto "
+https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=85452655&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIxIDQ6MjM6MjAgUE0maGFzaF92YWx1ZT1xbnR6T01jMWZIQ3E0VjQ2SDNSc3J3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjEwYmJmNmItZmE4YS00ZDdhLWIwZDktOTdiZDMwODhkN2U1
+#EXTINF:-1 tvg-logo="Free Online IPTV Player"
+https://d15690s323oesy.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/2f68fc4a-458b-4234-872d-1e9a20f8c40c/0.m3u8
+#EXTINF:-1 tvg-logo="Free Online IPTV Player2"	
+https://afrolandtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60e4824fda9b1e0dc15f2264_afrolandtv-live-1/ca5ddbc8-7087-47ef-beff-fc55393d74a2/4.m3u8
+#EXTINF:-1 tvg-logo="Free Online IPTV Player3"
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/4300.m3u8
+#EXTINF:-1 tvg-logo="Free Online IPTV Player4"
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/4300.m3u8
+#EXTINF:-1 tvg-logo="Free Online IPTV Player5"
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="Free Online IPTV Player6"
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="Free Online IPTV Player7"
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="Free Online IPTV Player8"
+https://stitcheraws.unreel.me/wse-node05.powr.com/live/60f881602da3a5575eceb854/chunklist_w441023163.m3u8
+#EXTINF:-1 tvg-logo="Free Online IPTV Player9"
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w1199342249.m3u8
+#EXTINF:-1 tvg-logo="Free Online IPTV Player10"
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/chunklist_w1839797870_b815693.m3u8
+#EXTINF:-1 tvg-logo="Free Online IPTV Player11"
+https://content-aeui1.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d/e.m3u8?pbs=b61341236f7144089403d03f41584108
+#EXTINF:-1 tvg-logo="Free Online IPTV Player12"
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
